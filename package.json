@@ -1,0 +1,16 @@
+{
+  "name": "parkner-challenge",
+  "version": "1.0.0",
+  "description": "Prueba de programación para posición de Parkner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/test.js",
+    "start": "node index.js"
+  },
+  "author": "johnnie tirado",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^3.2.0"
+  }
+}
